@@ -28,3 +28,6 @@ simple calcultor
 age,
 grade,
 simple interst,
+screamble string,
+divisible num
+
