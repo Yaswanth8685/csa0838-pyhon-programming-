@@ -29,5 +29,14 @@ age,
 grade,
 simple interst,
 screamble string,
-divisible num
+divisible num,
+fizzbuzz,
+student,users,staff,
+smaller thancurrent num,
+valid palindrome,
+array of integers,
+fountion delchar,
+sorted vowel strings,
+roman to ingrters,
+
 
