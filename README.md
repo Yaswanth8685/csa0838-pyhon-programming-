@@ -38,5 +38,13 @@ array of integers,
 fountion delchar,
 sorted vowel strings,
 roman to ingrters,
-
+factorial,
+grabe bouns,
+cnt of prft,
+comman divisor,
+len of last word,
+list shuftler,
+occurance counter,
+peak value,
+str reverse
 
